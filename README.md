@@ -1,5 +1,5 @@
 # Hi, I am Sathwika Kurma ✨
-<br><br>Computer Science Student at Lovely Professional University specialization in Data Science.</br><br>I am currently working on enhancing my DSA and CP.</br><br>contact me via : [gmail](sathwikakurma1@gmail.com) [linkedIn](https://www.linkedin.com/in/sathwika-kurma/) 
+<br><br>Computer Science Student at Lovely Professional University specialization in Data Science.</br><br>I am currently working on enhancing my DSA skills.</br><br>contact me via : [gmail](sathwikakurma1@gmail.com) [linkedIn](https://www.linkedin.com/in/sathwika-kurma/) 
 
 
 ## 🌐 Socials:
