@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 👩‍💻 `$ whoami`
+## 👩‍💻 `$ Who Am I`
 
 </div>
 
