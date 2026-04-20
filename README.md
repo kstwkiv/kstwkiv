@@ -231,19 +231,40 @@ class Sathwika:
 
 ## 📈 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kstwkiv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstwkiv&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" alt="Top Languages"/>
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kstwkiv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
+
+</td>
+<td>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstwkiv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kstwkiv&theme=tokyonight&hide_border=true&background=0D1117&stroke=e94560&ring=e94560&fire=e94560&currStreakNum=a8b2d8&sideNums=a8b2d8&currStreakLabel=a8b2d8&sideLabels=a8b2d8&dates=a8b2d8" alt="GitHub Streak"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=kstwkiv&theme=tokyonight&hide_border=true&background=0D1117&stroke=e94560&ring=e94560&fire=e94560&currStreakNum=a8b2d8&sideNums=a8b2d8&currStreakLabel=a8b2d8&sideLabels=a8b2d8&dates=a8b2d8"/>
 
 </div>
 
 ---
 
+## 📊 Contribution Graph
+
 <div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kstwkiv&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
 
 ## 🏆 LeetCode Stats
 
