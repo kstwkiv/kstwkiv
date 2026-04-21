@@ -19,8 +19,8 @@ class Sathwika:
     alias      = "kstwkiv"
     university = "Lovely Professional University"
     degree     = "B.Tech — Computer Science (Data Science Specialization)"
-    focus      = ["Machine Learning", "Data Analytics", "DSA", "NLP"]
-    currently  = "Sharpening DSA skills & building real-world ML systems"
+    focus      = ["Machine Learning", "Data Analytics", "DSA", "DotNet"]
+    currently  = "Learning Angular alomg with DotNet"
     contact    = "sathwikakurma1@gmail.com"
     fun_fact   = "I debug with coffee and deploy with confidence ☕"
 ```
